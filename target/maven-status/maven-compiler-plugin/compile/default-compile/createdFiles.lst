@@ -1,0 +1,3 @@
+org\nghiant\bookstore\config\BookStoreApplication.class
+org\nghiant\bookstore\dto\Book.class
+org\nghiant\bookstore\resources\v1\BookResource.class
